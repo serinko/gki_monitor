@@ -9,7 +9,7 @@
 
 
 # PROMPTS
-met_prt = ''
+msr_prt = ''
 gl_prt = ''
 kt_prt = ''
 
