@@ -28,8 +28,8 @@ kt_prt = ''
 # 2.2 or in mmol/L
 # $ What is the time preference you want to see:
 # 4 Do you want to see a graph
-# 4.1 Yes
-# 4.2 No table is enough
+# 4.1 Yes - generate tablae and graph
+# 4.2 No table is enough - generate graph
 
 met = input(met_prt)
 
