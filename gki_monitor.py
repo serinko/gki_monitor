@@ -31,12 +31,12 @@ kt_prt = ''
 # 4.1 Yes - generate tablae and graph
 # 4.2 No table is enough - generate graph
 
-met = input(met_prt)
+msr= input(msr_prt)
 
-if met == '1':
+if msr == '1':
     gl = float(input(gl_prt))
     kt = float(input(kt_prt))
-elif met == '2':
+elif msr == '2':
     gl = float(input(gl_prt))
 
 # GKI CALCULATOR
